@@ -1,2 +1,0 @@
-# IDResearch
-Created with CodeSandbox
